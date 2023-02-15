@@ -2,24 +2,17 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <head/>
 
-## Hi, I'm Juranda 
-or Felipe
+## Olá, eu sou Juranda
+### ou Felipe
 
 <div style="margin-bottom: 2000px">
-
-<a>  Starting my tech carrier by building some games. 🧱 🧱 🧱
+<a> Comecei a minha carreira criando alguns jogos, mas estou sempre me desenvolvendo para aprender mais e mais.
 <a/>
-
-<a> I do some pixelart too. 🎨 🎨 🎨
-<a/>
-
-<a> 
-<a/>
-
 <div/>
 
   
-## Languages and programs
+## Linguagens e programas
+  
 <div>
   <img height=30cm src="https://img.shields.io/badge/-Unity-black?&logo=unity&logoColor=white&style=plastic">
   <img height=30cm src="https://img.shields.io/badge/-csharp-purple?&logo=c-sharp&logoColor=white&style=plastic">
@@ -28,10 +21,7 @@ or Felipe
   <img height=30cm src="https://img.shields.io/badge/-SQLServer-orange?&logo=microsoftsqlserver&logoColor=white&style=plastic">
 <div/>
   
-  <a>
-  <a/>
-    
-## Github status
+## Status do Github
     
 <div>
   <a ref="https://github.com/Juranda">
