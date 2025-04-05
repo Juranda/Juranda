@@ -14,9 +14,8 @@
 ## Linguagens e programas
   
 <div>
-  <img height=30cm src="https://img.shields.io/badge/-csharp-purple?&logo=c-sharp&logoColor=white&style=plastic">
+  <img height=30cm src="https://img.shields.io/badge/-ASP.NET-purple?&logo=dotnet&logoColor=white&style=plastic">
+  <img height=30cm src="https://img.shields.io/badge/-MSServer-red?&logoColor=white&style=plastic">
   <img height=30cm src="https://img.shields.io/badge/-Javascript-yellow?&logo=javascript&logoColor=white&style=plastic">
-  <img height=30cm src="https://img.shields.io/badge/-Firebird?&logo=mysql&logoColor=white&style=plastic">
-  <img height=30cm src="https://img.shields.io/badge/-SQLServer-orange?&logo=microsoftsqlserver&logoColor=white&style=plastic">
-  <img height=30cm src="https://img.shields.io/badge/-Unity-black?&logo=unity&logoColor=white&style=plastic">
+  <img height=30cm src="https://img.shields.io/badge/-Firebird-orange?&style=plastic">
 <div/>
