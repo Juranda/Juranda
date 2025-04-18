@@ -3,7 +3,6 @@
 <head/>
 
 ## Olá, eu sou Felipe
-### ou Juranda
 
 <div style="margin-bottom: 2000px">
 <a> Experimentei algumas áreas de desenvolvimento como jogos, mobile, desktop e web. Mas decidi focar em desenvolvimento back-end, desenvolvo algumas APIs.
